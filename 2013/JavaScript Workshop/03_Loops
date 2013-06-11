@@ -1,0 +1,3 @@
+// classic for loops
+var primes = [];
+
